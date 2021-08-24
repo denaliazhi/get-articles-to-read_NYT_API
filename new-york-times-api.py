@@ -1,4 +1,4 @@
-# This script allows the user to retrieve X articles from within the last week using the NYT Article Search API. 
+# This script allows the user to retrieve X articles from within a given week using the NYT Article Search API. 
 
 # Import libraries to be used
 import requests
